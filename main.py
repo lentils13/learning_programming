@@ -1,1 +1,1 @@
-print('ewq')
+print('ew')
