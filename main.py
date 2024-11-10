@@ -1,1 +1,1 @@
-print('valera')
+print('valeraq')
