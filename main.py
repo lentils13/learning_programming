@@ -1,1 +1,1 @@
-print('ew')
+print('valera')
